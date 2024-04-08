@@ -30,7 +30,7 @@ Particle physicist/mathematician seeking remote positions in Data Science and So
 - Simplifies and accelerates analysis and reduces Python expertise required. [Project page](https://pypi.org/project/b2-plotter/)
 - **Relevant skills**: Python, PyPI, Visualization, PyData Stack, Jupyter
 
-**Continuum Neural Network Competition**  
+**Continuum Classification Neural Network Competition**  
 6/2023
 - Competition for analysts to develop the highest efficiency tensorflow neural network model for continuum background reduction. [Source code available here](https://github.com/psgebeline/continuum_neural_network). [Competition page](https://www.kaggle.com/competitions/cshandson/). Efficiency: 95.32% (5th place)
 - **Relevant skills**: Python, Visualization, PyData Stack, Binary Classification, TensorFlow, Neural Networks
