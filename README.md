@@ -10,7 +10,7 @@ Particle physicist/mathematician seeking remote positions in Data Science and So
 **Techniques**: Neural Networks, Multivariate Analysis, Boosted Decision Trees, Fitting, Visualization, Data Mining, Statistics  
 **Misc**: Academic research, Teaching, Training, LATEX, Excel, Korean  
 **Programming (5+ Years Experience)**: Python/PyData Stack (pandas, NumPy, Matplotlib), Object-Oriented Programming, bash, ROOT, Jupyter, Git, Confluence  
-**Programming (1-5 Years Experience)**: TensorFlow, Keras, scikit-learn, Pygame, C, C++, C#, R, Rust, Julia, Minimax, Search Algorithms
+**Programming (1-5 Years Experience)**: TensorFlow, Keras, scikit-learn, Pygame, C, C++, C#, Unity, R, Rust, Julia, Minimax, Search Algorithms
 
 ## Work Experience
 **Belle II Research Assistant, University of MS**  
@@ -60,4 +60,5 @@ Particle physicist/mathematician seeking remote positions in Data Science and So
 6/2022
 - Submission for My First Game Jam 2022, where we were tasked with creating a game centered around "Healing" in two weeks. Served as software production lead, ensuring each of the four programmers, myself included, were performing necessary tasks within the time limit.
 - [Source code](https://github.com/psgebeline/game_jam_2022/) [Game page](https://roeii.itch.io/herbal-remedies2)
+- **Relevant skills**: C#, Unity, Object-Oriented Programming
 
