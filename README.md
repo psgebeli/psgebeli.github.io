@@ -1,5 +1,5 @@
 # Paul Gebeline
-422 Walker Circle, Oxford, MS 38655  
+422 Walker Circle, Oxford, MS, 38655  
 215-301-0515 | paulgebeline1@gmail.com  
 LinkedIn: [Paul Gebeline](https://www.linkedin.com/in/paul-gebeline-87b90820b/)
 
