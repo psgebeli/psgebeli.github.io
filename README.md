@@ -16,18 +16,18 @@ Particle physicist/mathematician seeking remote positions in Data Science and So
 **Belle II Research Assistant, University of MS**  
 9/2018 – Present
 - Member of Belle II (particle accelerator in Tsukuba, Japan) charm working group aimed at quantifying sources of CP violation in the charm sector.
-- Perform several physics analyses on the Belle II dataset, such as undergrad/graduate theses and $\Xi_c^0$ lifetime measurement.
+- Perform several physics analyses on the Belle II dataset, such as undergrad/graduate theses and \Xi_c^0 lifetime measurement.
 - Present progress at charm meetings and conferences; review and edit collaboration papers; work data production shifts.
 - **Relevant skills**: Python, C/C++, ROOT, PyData Stack, bash, Jupyter, Data Mining, Multivariate Analysis, Boosted Decision Trees, Fitting, Visualization, LATEX, Academic Research, Git, and Confluence.
 
 ## Education
 - **University of Mississippi, M.S Physics**  
   Expected 5/2024  
-  *Thesis title*: TBD. Currently in development; measuring lifetime and branching fractions for various decays of a particular particle, the $\Xi_c^+$ (charm cascade particle), using the entire Belle II dataset to strengthen existing theoretical predictions and fix inputs used for other $\Xi_c^+$ analyses.
+  *Thesis title*: TBD. Currently in development; measuring lifetime and branching fractions for various decays of a particular particle, the \Xi_c^+ (charm cascade particle), using the entire Belle II dataset to strengthen existing theoretical predictions and fix inputs used for other \Xi_c^+ analyses.
 
 - **University of Mississippi, B.S Physics/Mathematics**  
   5/2022  
-  *Thesis title*: Lifetime Measurement of the $\Xi_c^+$ using Belle II Monte Carlo. [Available to read here](https://egrove.olemiss.edu/hon_thesis/2621/).
+  *Thesis title*: Lifetime Measurement of the \Xi_c^+ using Belle II Monte Carlo. [Available to read here](https://egrove.olemiss.edu/hon_thesis/2621/).
 
 ## Projects
 **B2 Plotter Python Module**  
